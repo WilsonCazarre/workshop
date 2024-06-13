@@ -1,2 +1,1 @@
 cd ->  mudar o diretório atual
-ls ->  lista os conteúdos de um diretório
