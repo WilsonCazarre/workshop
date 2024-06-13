@@ -1,0 +1,1 @@
+cd ->  mudar o diretório atual
